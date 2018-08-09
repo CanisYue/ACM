@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521459084 source:c:\users\mark\desktop\ac\容斥原理&二进制查找\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+

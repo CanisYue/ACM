@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523367644 source:c:\users\mark\desktop\ac\dfs\main.cpp
+	<iostream>
+	<cstdio>
+

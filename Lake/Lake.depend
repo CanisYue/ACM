@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528290331 source:c:\users\mark\desktop\ac\lake\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<string.h>
+

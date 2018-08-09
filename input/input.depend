@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527332656 source:c:\users\mark\desktop\ac\input\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+

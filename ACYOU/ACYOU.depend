@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522665863 source:c:\users\mark\desktop\ac\acyou\main.cpp
+	<cstdio>
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532312666 source:c:\users\mark\desktop\ac\plague inc\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<string.h>
+	<queue>
+

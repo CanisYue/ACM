@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522307780 source:c:\users\mark\desktop\ac\malloc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

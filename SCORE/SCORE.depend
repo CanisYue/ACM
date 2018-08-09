@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520403997 source:c:\users\mark\desktop\ac\score\main.cpp
+	<cstdio>
+	<cctype>
+	<cstring>
+

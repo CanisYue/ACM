@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520946294 source:c:\users\mark\desktop\ac\sort__lower_bound\main.cpp
+	<cstdio>
+	<algorithm>
+

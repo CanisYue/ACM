@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528339127 source:c:\users\mark\desktop\ac\lakecounting\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+	<algorithm>
+

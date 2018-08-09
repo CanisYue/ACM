@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521274191 source:c:\users\mark\desktop\ac\pro3\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

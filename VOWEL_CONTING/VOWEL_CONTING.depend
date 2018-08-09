@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522590625 source:c:\users\mark\desktop\ac\vowel_conting\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<string.h>
+	<set>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520995715 source:c:\users\mark\desktop\ac\sort\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

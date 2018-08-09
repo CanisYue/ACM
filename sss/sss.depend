@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520941408 source:c:\users\mark\desktop\ac\sss\main.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+

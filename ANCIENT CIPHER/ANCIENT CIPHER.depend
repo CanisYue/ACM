@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520939438 source:c:\users\mark\desktop\ac\ancient cipher\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,31 @@
+1 pi=acos(-1.0)   (#math.h)
+2 long long的输出
+3 计时函数#include<time.h>   (double)clock()/CLOCKS_PER_SEC)
+4 循环累加要清0
+5 memset(a, 0, sizeof(a)) #include<string.h>  对数组初始化， 只能0或-1
+6 x==0与!x等价
+7 #include<string.h>
+	1 sprintf 输出到字符串
+	2 strchr  字符串中找特定字符
+		for(int i = 0; i<strlen(string1); i++)
+		   if(strchr(string2, string1[i])==NULL)
+			;
+	3 strlen(string) 字符串实际长度
+	4 sizeof(string) 字符转大小
+8 getchar()
+9 #include<ctype.h>
+	isalpha, isdigit, isprint
+10 数组慎用，能不用就不用，能用一维数组就不用二维
+11 可以分步出结果的不要添到数组里
+12 结构体
+13 浮点误差
+14 所有的counter先初始化
+15 ch - '0' 字符变int   	ch - 'A' 对应大小
+16 scanf输入最后一个空格会回敲
+17 %c输出和%s输出的不同
+18 memset初始化数字有效大小仍为0
+19 sort(a, a+n)  a数组左闭右开升序排序
+19 lower_bound(a, a+n, x) - n  已知a数组中能插入x的最小位置
+20 upper_bound(a, a+n, x) - n  已知a数组中能插入x的最大位置
+21 string类型转换  创建一个stringstream  string>>stringstream  stringstream>>int
+22 循环条件里面尽量不要出现运算式

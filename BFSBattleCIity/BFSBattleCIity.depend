@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532569900 source:c:\users\mark\desktop\ac\bfsbattleciity\main.cpp
+	<iostream>
+	<queue>
+	<cstdio>
+
